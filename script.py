@@ -1,4 +1,4 @@
-from modulo import suma, resta
+from modulo import suma, resta, Persona
 
 print("Hola Mundo")
 
